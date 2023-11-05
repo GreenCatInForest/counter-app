@@ -1,7 +1,9 @@
 import { Component } from "react";
 
 export class ClassBasedCounter extends Component {
-  constructor() {}
+  constructor(props) {
+    super(props);
+  }
   render() {
     return <div>ClassBasedCounter</div>;
   }
