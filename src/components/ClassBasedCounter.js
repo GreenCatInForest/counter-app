@@ -28,6 +28,7 @@ export class ClassBasedCounter extends Component {
   render() {
     return (
       <div className="border border-secondary m-3 p-4 rounded">
+        <div className="text-center display-6 mb-4">Class Based Counter</div>
         <div className="text-center display-6 mb-4">
           {/* access the value from JavaScript set in this.state.count */}
           Counter: {this.state.count}
