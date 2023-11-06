@@ -39,17 +39,15 @@ This project implements a variety of technologies:
 
 ### Video
 
-
 https://github.com/GreenCatInForest/counter-app/assets/104716078/7a1f0634-8347-4c88-b249-6a6ef375c450
 
 
 ### Desktop viewport
-
-> ![experience-page](./src/accets/image/screenshot-desctop.png)
+<img src="./src/accets/image/screenshot-desctop.png" width="50%"/>
 
 ### Mobile viewport
 
-![experience-page](./src/accets/image/screenshot-mobile.png)
+<img src="./src/accets/image/screenshot-mobile.png" width="50%"/>
 
 ## Conclusion
 
