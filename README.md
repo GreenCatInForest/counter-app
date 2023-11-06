@@ -37,9 +37,10 @@ This project implements a variety of technologies:
 
 ## Screenshots & Video
 
-> Desktop viewport
+### Desktop viewport
+
 > ![experience-page](./src/accets/image/screenshot-desctop.png)
 
-> Mobile viewport
+### Mobile viewport
 
 ![experience-page](./src/accets/image/screenshot-mobile.png)
