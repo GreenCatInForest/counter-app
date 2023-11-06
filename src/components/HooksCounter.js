@@ -10,13 +10,19 @@ export const HooksCounter = () => {
     // test the button connected to method
     // console.log("handleIncrement");
 
-    // set the value of count to the current value of count+1
+    // set the value of count to the value of count+1
     setCount(count + 1);
   };
 
-  const handleReset = () => {};
+  const handleReset = () => {
+    // set the value of count to the current value of 0
+    setCount(0);
+  };
 
-  const handleDecrement = () => {};
+  const handleDecrement = () => {
+    // set the value of count to the value of count-1
+    setCount(count > 0 ? count - 1 : 0);
+  };
 
   return (
     <div className="border border-secondary m-3 p-4 rounded">
