@@ -21,6 +21,7 @@ export class ClassBasedCounter extends Component {
   };
 
   handleDecrement = () => {
+    // add ternary operator to set count > 0
     this.setState({ count: this.state.count > 0 ? this.state.count - 1 : 0 });
   };
 
