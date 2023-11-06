@@ -2,7 +2,7 @@
 
 This interactive app allows the user to increment, reset and decrement counter values. App created to show an example of using Function and Class Components and a useState hook in React.
 
-Please click here to view [deployed GitHub URL](https://counter-app-react-sigma.vercel.app/).
+Please click here to view [deployed App URL](https://counter-app-react-sigma.vercel.app/).
 
 ## User Story
 
@@ -36,6 +36,12 @@ This project implements a variety of technologies:
 > JavaScript
 
 ## Screenshots & Video
+
+### Video
+
+
+https://github.com/GreenCatInForest/counter-app/assets/104716078/7a1f0634-8347-4c88-b249-6a6ef375c450
+
 
 ### Desktop viewport
 
