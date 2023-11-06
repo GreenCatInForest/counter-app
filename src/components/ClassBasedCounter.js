@@ -3,6 +3,8 @@ import { Component } from "react";
 export class ClassBasedCounter extends Component {
   constructor(props) {
     super(props);
+
+    this.state = { count: 0 };
   }
 
   handleIncrement = () => {
