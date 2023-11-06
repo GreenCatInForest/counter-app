@@ -16,9 +16,13 @@ export class ClassBasedCounter extends Component {
     // console.log("handleIncrement")
   };
 
-  handleReset = () => {};
+  handleReset = () => {
+    this.setState({ count: 0 });
+  };
 
-  handleDecrement = () => {};
+  handleDecrement = () => {
+    this.setState({ count: this.state.count > 0 ? this.state.count - 1 : 0 });
+  };
 
   render() {
     return (
