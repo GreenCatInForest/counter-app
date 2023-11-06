@@ -50,3 +50,10 @@ https://github.com/GreenCatInForest/counter-app/assets/104716078/7a1f0634-8347-4
 ### Mobile viewport
 
 ![experience-page](./src/accets/image/screenshot-mobile.png)
+
+## Conclusion
+
+To conclude, this was a enjoyable project to show how class and functional components and useState hook works in React. I believe the project meets the brief that I set out to create and we have developed the coding skills and knowledge.
+
+Thank you! 
+Yana
