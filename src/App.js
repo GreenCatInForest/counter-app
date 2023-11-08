@@ -1,6 +1,7 @@
 import { Banner } from "./components/Banner";
 import { ClassBasedCounter } from "./components/ClassBasedCounter";
 import { HooksCounter } from "./components/HooksCounter";
+// import { AsyncCounter } from "./components/AsyncCounter";
 
 export const App = () => {
   return (
@@ -12,6 +13,7 @@ export const App = () => {
       />
       <ClassBasedCounter />
       <HooksCounter />
+      {/* <AsyncCounter/> */}
     </div>
   );
 };
